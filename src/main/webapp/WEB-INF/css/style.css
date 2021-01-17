@@ -1,0 +1,31 @@
+html{
+    background-color: #B5F1A6;
+}
+h1,h2,h3,h4{
+    color: #257D0F;
+    text-align: left;
+}
+table{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    border-spacing: 5px;
+    color: #257D0F;
+    background-color: #ABE39C;
+    border-style: groove;
+    border-color: #257D0F;
+}
+td{
+    border-style: solid;
+    border-width: 2px;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+    border-collapse: collapse;
+    border: 1px;
+}
+
+footer{
+    color: #257D0F;
+}
